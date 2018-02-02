@@ -2,7 +2,6 @@
   {
     "namespace": "tabsplit",
     "description": "Tab Split",
-    "permissions": ["experiments.tabsplit"],
     "functions": [
       {
         "name": "init",

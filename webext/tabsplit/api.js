@@ -66,7 +66,7 @@ class Impl {
 }
 
 
-class API extends ExtensionAPI {
+this.tabsplit = class API extends ExtensionAPI {
   getAPI(context) {
     const impl = new Impl();
     return {
