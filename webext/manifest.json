@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "tabsplit",
+  "name": "Tab Split",
   "description": "Tab Split as a webextension",
-  "version": "0.1.7",
+  "version": "0.1.8",
 
   "background": { "scripts": ["background.js"] },
 
